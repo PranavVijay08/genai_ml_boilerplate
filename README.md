@@ -1,1 +1,1 @@
-"# GenAI and ML Boilerplate" 
+# GenAI and ML Boilerplate
